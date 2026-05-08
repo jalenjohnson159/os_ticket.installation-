@@ -89,7 +89,7 @@ Next we are going to install MYSQL,once installed we will create our username an
 
 
  <h3>STEP 13.)
- To confirm osTicket is working we will reload IIS. Next we will go to sites and then default and then we should see an option to click osTicket. After we click osTicket,on the right we will click “Browse *:80”.
+ To confirm osTicket is working we will reload IIS. Next we will go to sites and then default and then we should see an option to click osTicket. After we click osTicket,on the right we will click “Browse *:80” and osTicket has officially been installed and ready to configure however a business sees fit.
  <img width="1641" height="723" alt="Screenshot 2026-04-28 074000" src="https://github.com/user-attachments/assets/0d359846-852d-4b95-bd37-dc72a4e76c42" />
 
 
