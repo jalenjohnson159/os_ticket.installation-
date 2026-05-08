@@ -12,6 +12,18 @@ This lab outlines the prerequisites for Installation of the open-source help des
 - Remote Desktop
 - Internet Information Services (IIS)
 - Database(MySQL)
+ 
+<h2>Prerequisites</h2>
+
+- Azure Virtual Machine
+- Internet Information Services (IIS)
+- PHP Manager
+- Rewrite Module
+- VC Redist
+- MySQL
+- Heidi SQL
+- osTicket v1.15.8
+- All programs needed for osTicket https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
 <h2>Operating Systems Used </h2>
 
